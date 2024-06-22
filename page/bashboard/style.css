@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.dashboard{
+    padding: 20px;
+    text-align: center;
+    font-size: 48px;
+    background-color: #F5E1FE;
+    font-family: "Livvic", sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+}
