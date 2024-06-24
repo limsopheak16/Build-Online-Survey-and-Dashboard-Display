@@ -12,3 +12,64 @@
     font-weight: bold;
     border-radius: 10px;
 }
+.value_total{
+   
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.value_response{
+    width: 630px;
+    height: 150px;
+    background-color: #F5E1FE;
+    border-radius: 15px;
+    text-align: center;
+
+  
+}
+.value_experience{
+    width: 630px;
+    background-color: #F5E1FE;
+    border-radius: 15px;
+    text-align: center;
+}
+.text{
+    font-size:24px ;
+    font-family: "Livvic", sans-serif;
+}
+.number{
+    font-size: 48px;
+    text-align: center;
+    margin-top:1%;
+}
+.value-response_1{
+    border-radius: 5px;
+
+  
+}
+table{
+    width: 659px;
+    height: 368px;
+    background-color: #F5E1FE;
+    font-family: "Livvic", sans-serif;
+
+  
+}
+ table, th, td{   
+    border-collapse: collapse;
+    border: solid 1px black;
+    
+}
+th{
+    font-size: 24px;
+    width: 60%;
+}
+td{
+    font-size: 24px;
+    text-indent: 30px;
+
+}
