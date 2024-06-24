@@ -1,0 +1,173 @@
+.container{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color:white;
+}
+.box1{
+    width: 622px;
+    height: 300px;
+   background-color: #F0EBF8;
+   border-radius: 20px;
+   margin: auto;
+
+}
+.nuv{
+    width: 100%;
+    height: 20px;
+    background-color: #7455F2;
+    border-radius: 10px;
+}
+.head{
+    width: 100%;
+    height:200px ;
+
+}
+.head p{
+    margin-top: 15px;
+    margin-left: 35px;
+    font-size: 45px;
+}
+.name p{
+    margin-top: 15px;
+    margin-left: 35px;
+    font-size: 24px;
+    color: #564F4F;
+    font-weight: bold;
+}
+.name1 p{
+    color: #564F4F;
+    font-size: 20px;
+}
+.phara{
+    width: 100%;
+    height: 200px;
+}
+.phara p{
+    /* margin-top: 15px; */
+    margin-left: 35px;
+    font-size: 20px;
+    color: #FF0000;
+}
+.box2{
+    width: 622px;
+    height: auto;
+    overflow: hidden;
+    background-color: #F0EBF8;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 1%;
+}
+.nameinput{
+    font-size: 20px;
+    margin-left:35px ;
+}
+.button1{
+    width: 90%;
+    height: 40px;
+    background-color: white;
+    margin-left: 35px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.grade{
+    width: 90%;
+    height: 250px;
+    background-color: #D3E0F4;
+    margin-left: 35px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.grade p{
+    margin-left: 20px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.school{
+    width: 90%;
+    height: 220px;
+    background-color: #D3E0F4;
+    margin-left: 35px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.school p{
+    margin-left: 20px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .form-group input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        .form-group input[type="text"] {
+            margin-left: 10px;
+            border: none;
+            border-bottom: 1px solid #000;
+            padding: 5px 0;
+            outline: none;
+        }
+        .box2 h1{
+            font-size: 24px;
+            margin-left: 5%;
+        }
+        .Interest{
+            width: 90%;
+            height: 250px;
+            background-color: #D3E0F4;
+            margin-left: 35px;
+            margin-top: 30px;
+            border-radius: 15px;
+        }
+        .Interest p{
+            margin-left: 20px;
+            padding-top: 30px;
+            font-size: 20px;
+            /* font-weight: bold; */
+        }
+        .Q2{
+            width: 90%;
+            height: 200px;
+            background-color: #D3E0F4;
+            margin-left: 35px;
+            margin-top: 30px;
+            border-radius: 15px;
+        }
+        .Q2 p{
+            margin-left: 20px;
+            padding-top: 30px;
+            font-size: 20px;
+        }
+        .Q3{
+            width: 90%;
+            height: 200px;
+            background-color: #D3E0F4;
+            margin-left: 35px;
+            margin-top: 30px;
+            border-radius: 15px;
+        }
+        .Q3 p{
+            margin-left: 20px;
+            padding-top: 30px;
+            font-size: 20px;
+        }
+        .Q4{
+            width: 90%;
+            height: 350px;
+            background-color: #D3E0F4;
+            margin-left: 35px;
+            margin-top: 30px;
+            border-radius: 15px;
+        }
+        .Q4 p{
+            margin-left: 20px;
+            padding-top: 30px;
+            font-size: 20px;
+        }
